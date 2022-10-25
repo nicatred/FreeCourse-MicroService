@@ -1,8 +1,7 @@
 ﻿namespace FreeCourse.Services.Catalog.Dtos
 {
-    public class CategoryDto
+    public class CategoryCrateDto
     {
-        public string Id { get; set; }
         public string Name { get; set; }
     }
 }
