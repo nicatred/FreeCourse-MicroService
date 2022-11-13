@@ -1,2 +1,4 @@
 Services
 -catalogApi=> 5011
+-identityServer=>5001
+-photoStockApi=>5012
